@@ -3,4 +3,4 @@ init:
      sudo apk add libsnappy libsnappy-dev
 
   packages:
-    build-essentials: {}
+    build-essential: {}
