@@ -1,6 +1,6 @@
 init:
   script: |
-     sudo apk add libsnappy libsnappy-dev
+     sudo apk add snappy snappy-dev
 
   packages:
     build-essential: {}
