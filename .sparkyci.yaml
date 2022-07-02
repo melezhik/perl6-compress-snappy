@@ -1,0 +1,5 @@
+init:
+  script: |
+     sudo apk add libsnappy libsnappy-dev
+
+  package-build-essentials: {}
